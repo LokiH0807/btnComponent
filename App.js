@@ -4,7 +4,7 @@ import MyButton from "./src/components/MyButton";
 
 export default function App() {
   const checkMyBtn = () => {
-    console.log('點擊成功')
+    console.log('點擊成功!!')
   }
   return (
     <View style={styles.container}>
